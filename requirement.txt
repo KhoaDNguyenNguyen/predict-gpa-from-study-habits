@@ -1,5 +1,7 @@
 pandas
 numpy
-ydata-profiling
+ydata-profiling==4.5.1
 scikit-learn==1.6.1
 Flask
+pydantic>=2.11.0
+fastapi>=0.103.0
